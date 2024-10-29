@@ -41,3 +41,6 @@ Feel free to star or fork my projects! 😊
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TickleFuse09&show_icons=true&locale=en" alt="ticklefuse" /></p>
 
+---
+
+[![An image of @ticklefuse09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ticklefuse09)](https://holopin.io/@ticklefuse09)
